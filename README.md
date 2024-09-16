@@ -166,7 +166,7 @@ Feel free to contribute to this project or suggest improvements by raising issue
 
 ## Contact
 
-For any queries or suggestions, you can contact:
+For any questions or feedback, please contact [E-Mail Me](mailto:fk776794@gmail.com?subject=Feedback%20on%20Faizan%20Net&body=Hello%20Faizan,%0A%0AI%20have%20some%20feedback%20to%20share%20about%20your%20Faizan%20Net%20tool.%0A%0A%2D%20Issue%2FComplaint%3A%20[Please%20describe%20the%20issue%20or%20complaint]%0A%2D%20Suggestions%2FChanges%3A%20[Please%20provide%20your%20suggestions%20or%20changes]%0A%0AThank%20you!%0A%0ARegards,%0A[Your%20Name])
 
 <!-- display the social media buttons in your README -->
 
@@ -182,7 +182,6 @@ For any queries or suggestions, you can contact:
 [4]: https://www.linkedin.com/in/EthicalFaizan
 [5]: https://www.github.com/faizan-khanx
 
-or E-mail me on (https://mail.google.com/fk776794@gmail.com)
 ## GITHUB STATS
 
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan-khanx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark#gh-dark-mode-only)
