@@ -1,20 +1,17 @@
 
 # FAIZAN NET - Subnet Calculation & Network Information Tool
 
-**FAIZAN NET** is a powerful network tool designed to help network administrators, engineers, and enthusiasts calculate and visualize subnets for both IPv4 and IPv6 addresses. It offers functionality for checking host statuses, scanning for open ports, and identifying operating systems using Nmap. The tool also allows exporting results in CSV or JSON format for further analysis or reporting.
+**FAIZAN NET** is a powerful network tool designed to help network administrators, engineers, and enthusiasts calculate and visualize subnets for both IPv4 and IPv6 addresses. It offers functionality for checking host statuses, scanning for open ports, and identifying operating systems. The tool also allows exporting results in CSV or JSON format for further analysis or reporting.
 
 ## Features
 
 - **Subnet Calculation**: Calculate detailed information for both IPv4 and IPv6 networks, including netmask, CIDR, broadcast address, and host range.
 - **Host Status Check**: Detect if hosts within the subnet are "UP" (online) or "DOWN" (offline).
-- **Port Scanning & OS Detection**: Use Nmap to scan hosts for open ports and identify operating systems.
+- **Port Scanning & OS Detection**: scan hosts for open ports and identify operating systems.
 - **Visualization**: Provide visual representations of subnets, showing binary representations of IP addresses, network addresses, and netmask.
 - **Export Data**: Export calculated subnet details to CSV or JSON format for easy sharing and further processing.
 - **Class-Based Subnet Classification**: Automatically classify subnets as Class A, B, C, D, or E for IPv4 networks.
 - **CIDR Notation Support**: Support for both IPv4 and IPv6 CIDR notation. FAIZAN NET allows you to calculate subnets and provide network information for both IP versions.
-- **Host Status Checks**: Check whether hosts are UP or DOWN in real-time, with color-coded output for easier visualization.
-- **Port Scanning & OS Detection**: Scan open ports and detect the operating system of each host in the network.
-- **Export Functionality**: Export your network information to either CSV or JSON formats for further analysis.
 - **Visual Representation**: Get a binary representation of the network and detailed host information, including IP range and netmask.
 - **Command-line Interface (CLI)**: Simple and user-friendly interface for easy input and output.
 
